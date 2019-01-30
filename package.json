@@ -1,0 +1,19 @@
+{
+  "name": "corsica-reset",
+  "version": "0.1.0",
+  "description": "Simple plugin that exposes a url for reseting a given corsica screen.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pixel-Curio/corisca-reset.git"
+  },
+  "keywords": [
+    "corsica", "reset", "plugin", "plugins"
+  ],
+  "author": "Pixel-Curio <michael@pixel-cur.io>",
+  "license": "MPL2",
+  "bugs": {
+    "url": "https://github.com/Pixel-Curio/corisca-reset/issues"
+  },
+  "homepage": "https://github.com/Pixel-Curio/corisca-reset"
+}
